@@ -16,7 +16,7 @@ Additional Skills: C++, Redux, Git, API, Postman, WordPress
 
 Actively contributed to core teams at Respirer Living Sciences and IntelliFlow.
 
-Provided mentorship to a team of 10, fostering professional development.
+Provided mentorship to a team, fostering professional development.
 
 Specialized in Full Stack Web Development through a program at "The University of Hong Kong."
 
