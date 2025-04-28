@@ -31,7 +31,7 @@ Redux · Recoil · Git · RESTful APIs · Postman · C++ · WordPress
 ## 🌐 Portfolio & Projects
 
 ✨ I've created several **attractive and useful websites** that solve real-world problems.  
-👉 **Visit my portfolio** to explore them: [https://rajnishsingh.netlify.app](https://rajnishsingh.netlify.app)
+👉 **Visit my portfolio** to explore them: [https://rajnish8869.netlify.app/](https://rajnish8869.netlify.app/)
 
 💻 And don’t forget to **check out my GitHub repositories** for more real-world projects, clean code, and reusable components.
 
